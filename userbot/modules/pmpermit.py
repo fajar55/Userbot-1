@@ -16,10 +16,12 @@ from userbot import (COUNT_PM, CMD_HELP, BOTLOG, BOTLOG_CHATID, PM_AUTO_BAN,
 from userbot.events import register
 
 # ========================= CONSTANTS ============================
-UNAPPROVED_MSG = ("`Welcome, You are a wonderful person with a wonderful view of life.`\n\n"
-                  "`Your companionship is always an opportunity But Sed This line is not for you.`"
-                  "`So just tell why you are here ?`\n\n"
-                  "`Your message will be responded when I'm free,Don't sit here whole day coz there are lots of pending messages😶‚`")
+UNAPPROVED_MSG = ("`Selamat Datang Tuan dan Nyonya, Nada adalah orang yang Luar biasa dengan pandangan hidup yang indah.`\n\n"
+                  "`Katakan kenapa anda mengirim pesan ke saya?.`"
+                  "`Pesan anda akan dijawab ketika saya sedang tidak sibuk`\n\n"
+                  "`Jangan terlalu banyak mengirim pesan ke saya.`"
+"`Karena itu akan mengakibatkan anda diblokir😶‚`"
+                 "`~Ihzana Zay`")
 # =================================================================
 
 
