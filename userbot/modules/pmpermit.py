@@ -16,11 +16,11 @@ from userbot import (COUNT_PM, CMD_HELP, BOTLOG, BOTLOG_CHATID, PM_AUTO_BAN,
 from userbot.events import register
 
 # ========================= CONSTANTS ============================
-UNAPPROVED_MSG = ("`Selamat Datang Tuan dan Nyonya, Nada adalah orang yang Luar biasa dengan pandangan hidup yang indah.`\n\n"
+UNAPPROVED_MSG = ("`Selamat Datang Bro & Sis, anda adalah orang yang Luar biasa dengan pandangan hidup yang indah.`\n\n"
                   "`Katakan kenapa anda mengirim pesan ke saya?.`"
                   "`Pesan anda akan dijawab ketika saya sedang tidak sibuk`\n\n"
                   "`Jangan terlalu banyak mengirim pesan ke saya.`"
-"`Karena itu akan mengakibatkan anda diblokir😶‚`"
+"`Karena itu akan mengakibatkan anda terblokir oleh bot😶‚`"
                  "`~Ihzana Zay`")
 # =================================================================
 
